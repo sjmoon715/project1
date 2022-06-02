@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "pluralsight example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjmoon715/project1.git"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "Stephen Moon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjmoon715/project1/issues"
+  },
+  "homepage": "https://github.com/sjmoon715/project1#readme"
+}
